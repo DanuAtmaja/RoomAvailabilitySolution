@@ -11,9 +11,10 @@ Input:
 roomNeeded = 1
 totalNight = 3
 roomAvailability = [1,3,2,3,0,2,3,4,1]
-```
+
 Output:
-[1,2,6,7,8,9]` 
+[1,2,6,7,8,9] 
+```
 
 ## How to Run
 
